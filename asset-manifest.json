@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/static/css/main.5e8f4481.css",
-    "main.js": "/static/js/main.d4284bcf.js",
+    "main.js": "/static/js/main.1598f692.js",
     "static/media/wording.svg": "/static/media/wording.0b1104f84d6aeed401747a696417dba6.svg",
     "static/media/info.svg": "/static/media/info.67b993b478a0caca41e0bb2b83c062a6.svg",
     "static/media/map.svg": "/static/media/map.4d7753c6c4489cd1f892fef35a6dd7ba.svg",
     "static/media/calendar.svg": "/static/media/calendar.4436d1a9bca98149d696c864e3d1cfd5.svg",
     "static/media/name.svg": "/static/media/name.74f3a5033cd79b67f865e5fb598ec671.svg",
-    "static/media/image.svg": "/static/media/image.bbd546b9fbb87e6433b65fb226b4d407.svg",
+    "static/media/image.svg": "/static/media/image.8bbad3878f35806862724d1d556c1d55.svg",
     "static/media/info-bride_bank.svg": "/static/media/info-bride_bank.3f1a43b7f05113d462810fd41308b3b8.svg",
     "static/media/date.svg": "/static/media/date.015a83117c306892cd7eb2e754fa9f39.svg",
     "static/media/info-groom_bank.svg": "/static/media/info-groom_bank.78863deedac72cade58bb0a9a88328d9.svg",
@@ -39,10 +39,10 @@
     "static/media/icon_tel.svg": "/static/media/icon_tel.1125b5a250ba1d312ef637dace89ef37.svg",
     "index.html": "/index.html",
     "main.5e8f4481.css.map": "/static/css/main.5e8f4481.css.map",
-    "main.d4284bcf.js.map": "/static/js/main.d4284bcf.js.map"
+    "main.1598f692.js.map": "/static/js/main.1598f692.js.map"
   },
   "entrypoints": [
     "static/css/main.5e8f4481.css",
-    "static/js/main.d4284bcf.js"
+    "static/js/main.1598f692.js"
   ]
 }
