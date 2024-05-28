@@ -3,17 +3,17 @@
   "name": "name",
   "icons": [
     {
-      "src": "https://cdn.jsdelivr.net/gh/mgjh1022/mgjh1022.github.io/favicon.ico",
+      "src": "favicon.ico",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     },
     {
-      "src": "https://cdn.jsdelivr.net/gh/mgjh1022/mgjh1022.github.io/logo192.png",
+      "src": "logo192.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "https://cdn.jsdelivr.net/gh/mgjh1022/mgjh1022.github.io/logo512.png",
+      "src": "logo512.png",
       "type": "image/png",
       "sizes": "512x512"
     }
